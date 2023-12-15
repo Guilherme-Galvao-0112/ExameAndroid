@@ -1,4 +1,4 @@
-package com.example.newproject.DAO;
+package com.example.newproject.persistence;
 
 import com.example.newproject.model.Cachorro;
 
